@@ -98,8 +98,15 @@ I enjoy transforming complex datasets into meaningful insights that support stra
 
 ---
 
-<p align="center">
 
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isabellabustamanteiturriaga-wq&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellabustamanteiturriaga-wq&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
 Thanks for visiting my profile 👋
 
 </p>
