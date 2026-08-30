@@ -1,46 +1,59 @@
-<div align="center">
 
-# Isabella Bustamante
-
-### Data Analytics • Artificial Intelligence • Applied Research
-
-Transforming data into actionable insights through analytics, research and AI.
+<p align="center">
+  <img src="Captura de pantalla 2026-08-31 a la(s) 0.17.03.png" alt="GitHub Banner" width="100%">
+</p>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isabella-bustamante-iturriaga-56ab16249)
+<p align="center">
+  <b>Data Analytics • Artificial Intelligence • Applied Research</b>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellabustamanteiturriaga@gmail.com)
+<p align="center">
+Transforming data into actionable insights through analytics, research and AI.
+</p>
 
-[![CV](https://img.shields.io/badge/Resume-06B6D4?style=for-the-badge&logo=readme&logoColor=white)](LINK_CV)
+<p align="center">
+<a href="https://www.linkedin.com/in/isabella-bustamante-iturriaga-56ab16249">
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-</div>
+<a href="mailto:isabellabustamanteiturriaga@gmail.com">
+<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="LINK_TO_YOUR_RESUME">
+<img src="https://img.shields.io/badge/Resume-06B6D4?style=for-the-badge">
+</a>
+</p>
 
 ---
 
 # About Me
 
-I'm currently working as a **Data Trainee in Advanced Analytics & AI at Verisure**, where I contribute to Generative AI initiatives and data-driven solutions for Customer Marketing.
+I'm a **Data Analyst** passionate about transforming data into actionable insights through analytics, machine learning and artificial intelligence.
 
-My background combines **Applied Research**, **Data Analytics** and **Artificial Intelligence**, allowing me to transform complex data into meaningful insights for decision-making.
+Currently, I work as a **Data Trainee in Advanced Analytics & AI at Verisure**, contributing to Generative AI initiatives and data-driven solutions for Customer Marketing.
+
+My background combines **Applied Research**, **Data Analytics**, and **Artificial Intelligence**, allowing me to bridge business challenges with data-driven decision-making.
 
 ---
 
 # Tech Stack
 
-### Programming
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=06B6D4)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=06B6D4)
 ![R](https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r&logoColor=06B6D4)
 
-### Analytics
+### Analytics & BI
 
 ![Power BI](https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=8B5CF6)
 ![Excel](https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=8B5CF6)
 ![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=8B5CF6)
 
-### AI & Development
+### Development
 
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=22D3EE)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=22D3EE)
@@ -54,12 +67,12 @@ My background combines **Applied Research**, **Data Analytics** and **Artificial
 
 AI-powered platform that transforms customer reviews into business insights using NLP and Artificial Intelligence.
 
-**Tech**
+**Tech Stack**
 
-Python • FastAPI • React • NLP • GitHub
+Python • FastAPI • React • NLP
 
-➡️ Repository:
-https://github.com/isabellabustamanteiturriaga-wq/RE-CHECKLOSAGEVES
+🔗 Repository:
+https://github.com/isabellabustamanteiturriaga-wq/RE-CHECK
 
 ---
 
@@ -72,8 +85,7 @@ Applied research developed at **CILED – Universidad del Desarrollo**, focused 
 - Public Policy
 - Data Analysis
 
-➡️ Repository:
-
+🔗 Repository:
 https://github.com/isabellabustamanteiturriaga-wq/research-portfolio
 
 ---
@@ -82,29 +94,16 @@ https://github.com/isabellabustamanteiturriaga-wq/research-portfolio
 
 - Artificial Intelligence
 - Data Analytics
+- Machine Learning
 - NLP
 - Customer Analytics
 - Business Intelligence
-- Education & Public Policy
+- Applied Research
 
 ---
 
-<div align="center">
+<p align="center">
 
-### Thanks for visiting my profile 👋
+Thanks for visiting my profile 👋
 
-</div>
-<!--
-**isabellabustamanteiturriaga-wq/isabellabustamanteiturriaga-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
