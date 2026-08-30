@@ -8,9 +8,9 @@ Transforming data into actionable insights through analytics, research and AI.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isabella-bustamante-iturriaga-56ab16249)
 
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellabustamanteiturriaga@gmail.com)
 
 [![CV](https://img.shields.io/badge/Resume-06B6D4?style=for-the-badge&logo=readme&logoColor=white)](LINK_CV)
 
