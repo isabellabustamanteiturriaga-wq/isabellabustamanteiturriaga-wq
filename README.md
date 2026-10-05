@@ -55,15 +55,16 @@ Applied research developed at **CILED – Universidad del Desarrollo** focused o
 
 ➡️ https://github.com/isabellabustamanteiturriaga-wq/research-portfolio
 
----
+
+------
 
 # About Me
 
-I'm a **Data Analyst** passionate about Artificial Intelligence, Applied Research and Business Analytics.
+I'm a **Data Scientist** passionate about Artificial Intelligence, Applied Research, and Business Analytics.
 
-Currently working as a **Data Trainee in Advanced Analytics & AI at Verisure**, contributing to Generative AI initiatives and data-driven solutions for Customer Marketing.
+Recently worked as a **Data Trainee in Advanced Analytics & AI at Verisure**, contributing to Generative AI initiatives and building data-driven solutions for Customer Marketing.
 
-I enjoy transforming complex datasets into meaningful insights that support strategic decision-making and product innovation.
+I enjoy transforming complex datasets into actionable insights that drive strategic decision-making and product innovation.
 
 ---
 
