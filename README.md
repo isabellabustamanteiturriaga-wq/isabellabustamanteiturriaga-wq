@@ -1,7 +1,5 @@
-
-
 <p align="center">
-  <img src="Captura de pantalla 2026-08-31 a la(s) 0.17.03.png" width="100%" alt="GitHub Banner">
+  <img src="assets/banner.png" width="100%" alt="Isabella Bustamante - Data Scientist, Research Analyst, Public Affairs">
 </p>
 
 <br>
@@ -21,6 +19,10 @@ Transforming data into actionable insights through analytics, research and AI.
 
 <a href="mailto:isabellabustamanteiturriaga@gmail.com">
 <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~018fe0cf26db3d8002">
+<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
 <a href="LINK_TO_RESUME">
@@ -55,14 +57,13 @@ Applied research developed at **CILED – Universidad del Desarrollo** focused o
 
 ➡️ https://github.com/isabellabustamanteiturriaga-wq/research-portfolio
 
-
-------
+---
 
 # About Me
 
-I'm a **Data Scientist** passionate about Artificial Intelligence, Applied Research, and Business Analytics.
+I'm a **Data Scientist** and **Research Analyst** passionate about Artificial Intelligence, Applied Research, Public Affairs, and Business Analytics.
 
-Recently worked as a **Data Trainee in Advanced Analytics & AI at Verisure**, contributing to Generative AI initiatives and building data-driven solutions for Customer Marketing.
+Recently worked as a **Data Science intern in Advanced Analytics & AI at Verisure**, contributing to Generative AI initiatives and building data-driven solutions for Customer Marketing.
 
 I enjoy transforming complex datasets into actionable insights that drive strategic decision-making and product innovation.
 
@@ -96,9 +97,9 @@ I enjoy transforming complex datasets into actionable insights that drive strate
 - Customer Analytics
 - Business Intelligence
 - Applied Research
+- Public Affairs
 
 ---
-
 
 ## GitHub Stats
 
@@ -109,5 +110,4 @@ I enjoy transforming complex datasets into actionable insights that drive strate
 
 <p align="center">
 Thanks for visiting my profile 👋
-
 </p>
