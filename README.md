@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Isabella Bustamante - Data Scientist, Research Analyst, Public Affairs">
+  <img src="banner.svg" width="100%" alt="Isabella Bustamante - Data Scientist, Research Analyst, Public Affairs">
 </p>
 
 <br>
